@@ -1,6 +1,6 @@
 package com.indogusmas.BelajarSpringWeb.model;
 
-import com.sun.javafx.beans.IDProperty;
+
 
 import javax.persistence.*;
 

@@ -10,6 +10,6 @@ public class HomeContoller {
 
     @RequestMapping("/")
     public  String  home(){
-        return  "home";
+        return  "mahasiswa";
     }
 }
