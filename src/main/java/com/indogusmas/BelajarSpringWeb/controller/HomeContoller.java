@@ -12,4 +12,7 @@ public class HomeContoller {
     public  String  home(){
         return  "mahasiswa";
     }
+
+    @RequestMapping("/halamanhtml")
+    public  String halamanHtml(){return "halamanhtml";}
 }
